@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\bin\Debug\net6.0\InterfaceTask.exe
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\bin\Debug\net6.0\InterfaceTask.deps.json
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\bin\Debug\net6.0\InterfaceTask.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\bin\Debug\net6.0\InterfaceTask.dll
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\bin\Debug\net6.0\InterfaceTask.pdb
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.dll
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\refint\InterfaceTask.dll
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.pdb
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\InterfaceTask.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\InterfaceTask\InterfaceTask\obj\Debug\net6.0\ref\InterfaceTask.dll

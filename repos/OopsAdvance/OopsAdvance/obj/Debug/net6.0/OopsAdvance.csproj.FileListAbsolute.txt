@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\bin\Debug\net6.0\OopsAdvance.exe
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\bin\Debug\net6.0\OopsAdvance.deps.json
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\bin\Debug\net6.0\OopsAdvance.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\bin\Debug\net6.0\OopsAdvance.dll
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\bin\Debug\net6.0\OopsAdvance.pdb
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.dll
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\refint\OopsAdvance.dll
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.pdb
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\OopsAdvance.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\OopsAdvance\OopsAdvance\obj\Debug\net6.0\ref\OopsAdvance.dll
