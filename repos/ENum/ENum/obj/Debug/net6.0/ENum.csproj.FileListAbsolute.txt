@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\ENum\ENum\bin\Debug\net6.0\ENum.exe
+C:\Users\eswaran.a\source\repos\ENum\ENum\bin\Debug\net6.0\ENum.deps.json
+C:\Users\eswaran.a\source\repos\ENum\ENum\bin\Debug\net6.0\ENum.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\ENum\ENum\bin\Debug\net6.0\ENum.dll
+C:\Users\eswaran.a\source\repos\ENum\ENum\bin\Debug\net6.0\ENum.pdb
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.dll
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\refint\ENum.dll
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.pdb
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ENum.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\ENum\ENum\obj\Debug\net6.0\ref\ENum.dll

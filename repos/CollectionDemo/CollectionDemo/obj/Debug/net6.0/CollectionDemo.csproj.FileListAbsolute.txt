@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net6.0\CollectionDemo.exe
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net6.0\CollectionDemo.deps.json
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net6.0\CollectionDemo.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net6.0\CollectionDemo.dll
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\bin\Debug\net6.0\CollectionDemo.pdb
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.dll
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\refint\CollectionDemo.dll
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.pdb
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\CollectionDemo.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\CollectionDemo\CollectionDemo\obj\Debug\net6.0\ref\CollectionDemo.dll
