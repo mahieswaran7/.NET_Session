@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\bin\Debug\net6.0\CollectionAdvance.exe
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\bin\Debug\net6.0\CollectionAdvance.deps.json
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\bin\Debug\net6.0\CollectionAdvance.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\bin\Debug\net6.0\CollectionAdvance.dll
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\bin\Debug\net6.0\CollectionAdvance.pdb
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.dll
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\refint\CollectionAdvance.dll
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.pdb
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\CollectionAdvance.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\CollectionAdvance\CollectionAdvance\obj\Debug\net6.0\ref\CollectionAdvance.dll
