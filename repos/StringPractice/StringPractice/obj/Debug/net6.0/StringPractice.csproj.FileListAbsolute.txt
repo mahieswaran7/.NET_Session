@@ -1,0 +1,14 @@
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.exe
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.deps.json
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.runtimeconfig.json
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.dll
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\bin\Debug\net6.0\StringPractice.pdb
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.AssemblyInfoInputs.cache
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.AssemblyInfo.cs
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.dll
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\refint\StringPractice.dll
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.pdb
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\StringPractice.genruntimeconfig.cache
+C:\Users\eswaran.a\source\repos\StringPractice\StringPractice\obj\Debug\net6.0\ref\StringPractice.dll
