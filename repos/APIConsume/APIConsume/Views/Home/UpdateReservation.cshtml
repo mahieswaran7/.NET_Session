@@ -1,0 +1,65 @@
+﻿
+@model Reservation
+
+@{
+    ViewBag.Title = "Update Reservation by ID";
+}
+
+<a asp-action="Index" class="btn btn-sm btn-info">Back</a>
+<h3>@ViewBag.StatusCode</h3>
+<hr />
+<form asp-action="UpdateReservation" method="post">
+    <div class="form-group">
+        <label for="Id">Id: </label>
+        <input class="form-control" asp-for="Id" readonly />
+    </div>
+    <div class="form-group">
+        <label for="Name">Name: </label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div class="form-group">
+        <label for="Startlocation">StartLocation: </label>
+        <input class="form-control" asp-for="Startlocation" />
+    </div>
+    <div class="form-group">
+        <label for="Endlocation">Endlocation: </label>
+        <input class="form-control" asp-for="Endlocation" />
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary"> Update</button>
+    </div>
+</form>
+
+@if (ViewBag.Result == "Success")
+{
+
+    <h2>Booking Detail</h2>
+
+
+
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>StartLocation</th>
+                <th>EndLocation</th>
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Name</td>
+                <td>@Model.Startlocation</td>
+                <td>@Model.Endlocation</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+}
