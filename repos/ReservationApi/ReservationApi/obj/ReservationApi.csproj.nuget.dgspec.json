@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationApi\\ReservationApi.csproj": {}
+    "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationAPI\\ReservationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationApi\\ReservationApi.csproj": {
+    "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationAPI\\ReservationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationApi\\ReservationApi.csproj",
-        "projectName": "ReservationApi",
-        "projectPath": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationApi\\ReservationApi.csproj",
+        "projectUniqueName": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationAPI\\ReservationAPI.csproj",
+        "projectName": "ReservationAPI",
+        "projectPath": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationAPI\\ReservationAPI.csproj",
         "packagesPath": "C:\\Users\\eswaran.a\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationApi\\obj\\",
+        "outputPath": "C:\\Users\\eswaran.a\\source\\repos\\ReservationAPI\\ReservationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eswaran.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,10 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
             }

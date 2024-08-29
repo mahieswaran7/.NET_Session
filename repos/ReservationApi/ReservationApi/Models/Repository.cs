@@ -1,44 +1,46 @@
-﻿using ReservationApi.Models;
+﻿
+using Microsoft.AspNetCore.Http.Features;
 
-namespace ReservationApi.Models
+namespace ReservationAPI.Models
 {
     public class Repository : IRepository
     {
-        private Dictionary<int, Reservation> items;
+        private Dictionary<int, Reservation> Items;
         public Repository()
         {
-            items = new Dictionary<int, Reservation>();
-            new List<Reservation>() {
-                new Reservation { id = 1, name = "DHARANESH", startLocation = "MADURAI", endLocation = "CHENNAI" },
-                new Reservation { id = 2, name = "DHINESH", startLocation = "TIRUNELVELI", endLocation = "CHENNAI" },
-                new Reservation { id = 3, name = "ESWARAN", startLocation = "KANCHIPURAM", endLocation = "SINGAPORE" },
-                new Reservation { id = 4, name = "LINGAM", startLocation = "CUDDALORE", endLocation = "CHENNAI" }
-            }.ForEach(r => AddResrvation(r));
-        }
-
-        public Reservation this[int id] => items.ContainsKey(id)
- ? items[id] : null;
-
-        public IEnumerable<Reservation> Reservations => items.Values;
-
-        public Reservation AddResrvation(Reservation reservation)
-        {
-            if (reservation.id == 0)
+            Items = new Dictionary<int, Reservation>();
+            new List<Reservation>
             {
-                int key = items.Count;
-                while (items.ContainsKey(key)) { key++; };
-                reservation.id = key;
-            }
-            items[reservation.id] = reservation;
-            return reservation;
-
+                new Reservation{Id=1,Name="Vijay",StartLocation="Chennai",EndLocation="Goa"},
+                new Reservation{Id=2,Name="karupu",StartLocation="Karakudi",EndLocation="Chennai"},
+                new Reservation{Id=3,Name="Hamsa",StartLocation="Pune",EndLocation="Delhi"},
+                new Reservation{Id=4,Name="Ikfan",StartLocation="Chennai",EndLocation="Simla"}
+                 }.ForEach(r => AddReservation(r));
         }
 
-        public void DeleteResrvation(int id) => items.Remove(id)
-;
+        public Reservation this[int id] =>Items.ContainsKey(id) ? Items[id]:null;
+
+        public IEnumerable<Reservation> Resevation => Items.Values;
+
+        public Reservation AddReservation(Reservation reservation)
+        {
+            if (reservation.Id == 0)
+            {
+                int key = Items.Count;
+                while (Items.ContainsKey(key)) { key++; };
+                reservation.Id = key;
+
+            }
+            Items[reservation.Id] = reservation;
+            return reservation;
+        }
+        public void DeleteReservation(int id) => Items.Remove(id);
 
 
-        public Reservation UpdateResrvation(Reservation reservation) => AddResrvation((Reservation)reservation);
+        public Reservation UpdateReservation(Reservation reservation) => AddReservation(reservation);
+
+
 
     }
+
 }

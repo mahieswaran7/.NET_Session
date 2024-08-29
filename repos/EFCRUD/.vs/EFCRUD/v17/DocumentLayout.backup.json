@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|c:\\users\\eswaran.a\\source\\repos\\efcrud\\efcrud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\AppData\\Local\\Temp\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\source\\repos\\WebApplicationDemo\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Migrations\\20240821080825_Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +65,10 @@
       "RelativeMoniker": "D:0:0:{D2A5D07A-192C-4C80-9E07-70260C0FDABF}|EFCRUD\\EFCRUD.csproj|solutionrelative:efcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\AppData\\Local\\Temp\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\source\\repos\\WebApplicationDemo\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\AppData\\Local\\Temp\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eswaran.a\\source\\repos\\WebApplicationDemo\\dbo.Employees.data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -93,20 +93,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "EFCRUD\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Department\\Index.cshtml*",
-              "RelativeToolTip": "EFCRUD\\Views\\Department\\Index.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCEAAABDAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "EFCRUD\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-21T09:20:46.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:38:49.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "EFCRUD\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:25:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCRUD\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCRUD\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:36:33.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EFCRUD\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:13:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EFCRUD\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\Department.cs",
+              "RelativeToolTip": "EFCRUD\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:20:29.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "EFCRUD\\Views\\Employee\\Edit.cshtml",
@@ -119,59 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "EFCRUD\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Employee\\Index.cshtml*",
-              "RelativeToolTip": "EFCRUD\\Views\\Employee\\Index.cshtml*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T09:36:33.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "EFCRUD\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAADwv00AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T08:13:16.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EFCRUD\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EFCRUD\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:38:49.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompanyContext.cs",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\CompanyContext.cs",
-              "RelativeDocumentMoniker": "EFCRUD\\Models\\CompanyContext.cs",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\CompanyContext.cs",
-              "RelativeToolTip": "EFCRUD\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T05:25:39.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Views\\Department\\Edit.cshtml",
               "RelativeDocumentMoniker": "EFCRUD\\Views\\Department\\Edit.cshtml",
@@ -180,19 +193,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-21T10:10:18.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "EFCRUD\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCRUD\\EFCRUD\\Models\\Department.cs",
-              "RelativeToolTip": "EFCRUD\\Models\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T05:20:29.263Z",
               "EditorCaption": ""
             },
             {
@@ -237,10 +237,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "dbo.Employees.data ",
-              "DocumentMoniker": "C:\\Users\\eswaran.a\\AppData\\Local\\Temp\\dbo.Employees.data.sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\dbo.Employees.data.sql",
-              "ToolTip": "dbo.Employees.data *",
+              "Title": "dbo.Employees.data.sql ",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\WebApplicationDemo\\dbo.Employees.data.sql",
+              "RelativeDocumentMoniker": "..\\WebApplicationDemo\\dbo.Employees.data.sql",
+              "ToolTip": "dbo.Employees.data.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-08-21T08:15:10.438Z",
               "EditorCaption": ""

@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using ReservationApi.Models;
+using ReservationAPI.Models;
 using System.Diagnostics;
 
-namespace ReservationApi.Controllers
+namespace ReservationAPI.Controllers
 {
     public class HomeController : Controller
     {

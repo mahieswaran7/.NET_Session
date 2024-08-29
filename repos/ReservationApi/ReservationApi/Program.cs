@@ -1,8 +1,9 @@
-using ReservationApi.Models;
+using ReservationAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<IRepository, Repository>();
 
 builder.Services.AddCors(options =>
@@ -19,7 +20,6 @@ builder.Services.AddCors(options =>
 
 
 
-builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
@@ -31,8 +31,8 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 
 app.UseRouting();
-
 app.UseCors("AllowAllOrigins");
+
 app.UseAuthorization();
 
 app.MapControllerRoute(

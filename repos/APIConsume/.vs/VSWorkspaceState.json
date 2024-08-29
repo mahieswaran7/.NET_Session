@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIConsume",
+    "\\APIConsume\\Controllers",
+    "\\APIConsume\\Models",
+    "\\APIConsume\\obj",
+    "\\APIConsume\\Properties",
+    "\\APIConsume\\Views",
+    "\\APIConsume\\wwwroot"
+  ],
+  "SelectedNode": "\\APIConsume\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

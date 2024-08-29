@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\models\\changepondcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\models\\changepondcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|c:\\users\\eswaran.a\\source\\repos\\efcoretask\\efcoretask\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A80BA34-386E-43B6-968B-1492A6520AB6}|EFCoreTask\\EFCoreTask.csproj|solutionrelative:efcoretask\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFCoreTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:33:14.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCoreTask\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T12:28:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTask\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EFCoreTask\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T12:28:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCoreTask\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EFCoreTask\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T12:28:49.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCoreTask\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:28:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangepondContext.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Models\\ChangepondContext.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Models\\ChangepondContext.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Models\\ChangepondContext.cs",
+              "RelativeToolTip": "EFCoreTask\\Models\\ChangepondContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:28:39.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCoreTask\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\eswaran.a\\source\\repos\\EFCoreTask\\EFCoreTask\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCoreTask\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:28:25.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

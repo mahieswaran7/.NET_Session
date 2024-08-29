@@ -1,4 +1,4 @@
-namespace ReservationApi.Models
+namespace ReservationAPI.Models
 {
     public class ErrorViewModel
     {

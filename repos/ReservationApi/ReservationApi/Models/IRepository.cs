@@ -1,17 +1,16 @@
-﻿using ReservationApi.Models;
-
-namespace ReservationApi.Models
+﻿namespace ReservationAPI.Models
 {
     public interface IRepository
     {
-        IEnumerable<Reservation> Reservations { get; }
+        IEnumerable<Reservation> Resevation { get; }
 
         Reservation this[int id] { get; }
 
-        Reservation AddResrvation(Reservation reservation);
+        Reservation AddReservation(Reservation reservation);
 
-        Reservation UpdateResrvation(Reservation reservation);
+        Reservation UpdateReservation(Reservation reservation);
 
-        void DeleteResrvation(int id);
+        void DeleteReservation(int id);
+
     }
 }

@@ -1,12 +1,11 @@
-﻿namespace ReservationApi.Models
+﻿namespace ReservationAPI.Models
 {
     public class Reservation
     {
-        public int id { get; set; }
-        public string name { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string StartLocation { get; set; }
+        public string EndLocation { get; set; }
 
-        public string startLocation { get; set; }
-
-        public string endLocation { get; set; }
     }
 }
